@@ -1,0 +1,11 @@
+Project 1 - A program that reports the contents of a compressed-gas cylinder
+
+Project 2 - Accepts user input and determines if it's divisible by 9.
+
+Project 3 - A simple game that has a user place a bet over dice. The user 
+            and the computer roll the dice and the user wants to have a 
+            greater number than the computer so that they can win. User wins 
+            at 200 tokens and loses at 0 tokens.
+
+Project 4 - A program that reads in an integer from the user and tests to 
+            see if it's a prime number.
