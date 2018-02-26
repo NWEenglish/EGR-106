@@ -1,0 +1,8 @@
+Problem 1 - In this code, a file will be read ( mat.txt ) and the program will read it as a matrix
+            and return to the user the determinant. Program uses two functions: 1st is used a 
+            welcome/into to the user, the 2nd is used to read the file, calculate the determinant, 
+            and print the determinant to the screen.
+
+Problem 2 - This program takes a file ( data.txt ) and write an array from the file. The user then 
+            has the choice to sort the file in either ascending order or descending order. Each 
+            step will be printed to the user as it is sorted.
