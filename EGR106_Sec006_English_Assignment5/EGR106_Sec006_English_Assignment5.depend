@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1506405691 source:c:\users\nicholas\onedrive\school\2017 - 2018 academic year\fall semester\egr106\egr106_sec006_english_assignment5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1506406108 source:c:\users\nicholas\onedrive\school\2017 - 2018 academic year\fall semester\egr106\egr106_sec006_english_assignment5\src\egr106_sec006_english_assignment5project13.cpp
+	"EGR106_Sec006_English_Assignment5Project13.h"
+
+1506406108 c:\users\nicholas\onedrive\school\2017 - 2018 academic year\fall semester\egr106\egr106_sec006_english_assignment5\include\egr106_sec006_english_assignment5project13.h
+

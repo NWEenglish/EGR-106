@@ -1,0 +1,6 @@
+
+Please enter the color of the gas in the compressed cylinder: o
+
+The gas is Ammonia.
+
+

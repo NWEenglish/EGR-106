@@ -1,0 +1,62 @@
+
+ This program finds the number of roots whether or not that
+ that those roots are real or imaginary. Use the following
+ format to determine those coefficients:
+
+         ax^2 + bx + c = 0
+
+ Enter the coefficient for a:   2
+
+ a = 2.000
+
+ Enter the coefficient for b:   8
+
+ b = 8.000
+
+ Enter the coefficient for c:   8
+
+ c = 8.000
+
+ There is only one real root.
+        X1 = -2.000
+
+ Would you like to run the program again?
+ Enter 1 for yes and 0 for now: 1
+
+ Enter the coefficient for a:   -5
+
+ a = -5.000
+
+ Enter the coefficient for b:   3
+
+ b = 3.000
+
+ Enter the coefficient for c:   -4
+
+ c = -4.000
+
+ There are two imaginary roots.
+        X1 = -0.543i
+        X2 = 1.143i
+
+ Would you like to run the program again?
+ Enter 1 for yes and 0 for now: 1
+
+ Enter the coefficient for a:   -2
+
+ a = -2.000
+
+ Enter the coefficient for b:   7
+
+ b = 7.000
+
+ Enter the coefficient for c:   4
+
+ c = 4.000
+
+ There are two real roots.
+        X1 = -0.500
+        X2 = 4.000
+
+ Would you like to run the program again?
+ Enter 1 for yes and 0 for now: 0

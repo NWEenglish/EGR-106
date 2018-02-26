@@ -1,0 +1,29 @@
+
+ Welcome to the dice game!
+ The game allows you to place a wager and roll dice.
+ Your competitor is the computer!
+
+ Would you like to play? Enter 'Y' for yes: y
+
+
+ Awesome! Let's begin!
+
+ Please enter your wager: 50
+
+
+ You rolled a 5
+ The computer rolled a 4
+
+ You won the role! You now have 150 tokens!
+
+
+ Please enter your wager: 100
+
+
+ You rolled a 4
+ The computer rolled a 2
+
+ You won the role! You now have 250 tokens!
+ You won the game!
+
+ Would you like to play again? (Y/N):   n

@@ -1,0 +1,9 @@
+
+ Please enter the amount to withdraw:   180
+
+ You will receive:
+    3   $50s
+    1   $20s
+    1   $10s
+
+

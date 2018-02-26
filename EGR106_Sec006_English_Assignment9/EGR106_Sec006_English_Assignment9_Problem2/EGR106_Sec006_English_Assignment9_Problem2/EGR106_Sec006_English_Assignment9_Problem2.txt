@@ -1,0 +1,6 @@
+
+ Please enter the air temperature in degrees fahrenheit:        80
+
+ The speed of air at 80 degrees fahrenheit is 1824.306152 ft/sec.
+
+

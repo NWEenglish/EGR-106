@@ -1,0 +1,4 @@
+
+ The smallest value is 3.490367
+ The largest value is 102.961220
+ The standard deviation is 37.294552

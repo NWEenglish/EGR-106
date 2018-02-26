@@ -1,0 +1,86 @@
+
+ What value would you like to see is prime?     8
+8: NOT A PRIME Number
+8 = 1 x 8
+8 = 2 x 4
+
+Would you like to enter another value? Enter 1 for yes: 1
+
+ What value would you like to see is prime?     25
+25: NOT A PRIME Number
+25 = 1 x 25
+25 = 5 x 5
+
+Would you like to enter another value? Enter 1 for yes: 1
+
+ What value would you like to see is prime?     101
+101: PRIME Number
+
+Would you like to enter another value? Enter 1 for yes: 1
+
+ What value would you like to see is prime?     5001
+5001: NOT A PRIME Number
+5001 = 1 x 5001
+5001 = 3 x 1667
+
+Would you like to enter another value? Enter 1 for yes: 1
+
+ What value would you like to see is prime?     10213
+10213: NOT A PRIME Number
+10213 = 1 x 10213
+10213 = 7 x 1459
+
+Would you like to enter another value? Enter 1 for yes: 1
+
+ What value would you like to see is prime?     56777
+56777: NOT A PRIME Number
+56777 = 1 x 56777
+56777 = 7 x 8111
+
+Would you like to enter another value? Enter 1 for yes: 1
+
+ What value would you like to see is prime?     765321
+765321: NOT A PRIME Number
+765321 = 1 x 765321
+765321 = 3 x 255107
+
+Would you like to enter another value? Enter 1 for yes: 1
+
+ What value would you like to see is prime?     317971
+317971: PRIME Number
+
+Would you like to enter another value? Enter 1 for yes: 1
+
+ What value would you like to see is prime?     1028743
+1028743: NOT A PRIME Number
+1028743 = 1 x 1028743
+1028743 = 131 x 7853
+
+Would you like to enter another value? Enter 1 for yes: 1
+
+ What value would you like to see is prime?     23498271
+23498271: NOT A PRIME Number
+23498271 = 1 x 23498271
+23498271 = 3 x 7832757
+23498271 = 9 x 2610919
+
+Would you like to enter another value? Enter 1 for yes: 1
+
+ What value would you like to see is prime?     987278023
+987278023: NOT A PRIME Number
+987278023 = 1 x 987278023
+987278023 = 149 x 6626027
+987278023 = 761 x 1297343
+987278023 = 8707 x 113389
+
+Would you like to enter another value? Enter 1 for yes: 1
+
+ What value would you like to see is prime?     1768374681
+1768374681: NOT A PRIME Number
+1768374681 = 1 x 1768374681
+1768374681 = 3 x 589458227
+1768374681 = 157 x 11263533
+1768374681 = 471 x 3754511
+
+Would you like to enter another value? Enter 1 for yes: 0
+

@@ -1,0 +1,12 @@
+ Please enter a value: 182975
+
+ Digits pulled out (starting on the right):
+ 5
+ 7
+ 9
+ 2
+ 8
+ 1
+
+ The value is not divisible by 9!
+

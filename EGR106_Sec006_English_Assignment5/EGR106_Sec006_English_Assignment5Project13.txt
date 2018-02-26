@@ -1,0 +1,11 @@
+
+Please enter the amount of apples you wish to bag: -13
+
+You can NOT have a negative quantity.
+Please enter the amount of apples you wish to bag: 27
+
+You entered 27 apples to be bagged.
+
+Whole Bags Produced:    2
+Remaining Apples:       3
+

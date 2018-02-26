@@ -1,0 +1,13 @@
+
+ Please enter a value:  5
+
+ ____________________________________
+
+ Debugging values (n = 5):
+
+         2n + 1/3 = 31.415926
+         sqrt( 2n + 1/3 ) = 5.604991
+ ____________________________________
+
+ The factorial of 5 is approximately 118.019173
+
