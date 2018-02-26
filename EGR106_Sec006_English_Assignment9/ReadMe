@@ -1,0 +1,12 @@
+Porblem 1 - Gets a value from the user that the user wishes to find the factorial of. The 
+            program checks if that number is valid (valid being defined as nonnegtive integers 
+            less than 8), and then runs the user value through R.W. Gosper's proposed 
+            approximation formula for the factorial of a value.
+
+Problem 2 - This is a program that calculates the speed of sound in air at a given temperature.
+
+Problem 3 - This is a program that acts as a automatic teller machine that dispenses money.
+
+Problem 4 - This is a program that determines whether a quadratic equation has one real root, 
+            two real roots, or imaginary roots. Then, if the roots are real, display the roots 
+            of the quadratic equation.
