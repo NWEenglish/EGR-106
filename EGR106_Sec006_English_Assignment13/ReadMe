@@ -1,0 +1,8 @@
+The codes here take input as a file and output into a seperate file after doing simple caluclations.
+
+Problem 1 - This code reads a file that holds a n value, position (x, y, z), and also holds its mass. 
+            This program runs to format the information in a more user friendly way. The program also 
+            calculates the center of gravity. All of this is displayed in "data.txt".
+            
+Problem 2 - This code takes user input for the UPC code and determines if the code is valid or 
+            invalid through calculations.
