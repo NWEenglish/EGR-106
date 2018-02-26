@@ -1,0 +1,4 @@
+This code takes input from a file (data.txt) and prints the items to the user. The program will
+then flip the array backwards and print that to the user. Then finally, the code will count the
+number of ones, number of zeros, and number of ones AND zeros. After counting and calcuating,
+the program will then print the amounts to the user.
